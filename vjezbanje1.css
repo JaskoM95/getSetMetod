@@ -1,0 +1,43 @@
+#wrapp {
+
+    border: 3px solid gray;
+    width: 60%;
+    background-color: black;
+    margin: 100px auto;
+
+}
+
+
+.prvi {
+    background-color: red;
+    border-bottom: 3px solid black;
+    text-align: left;
+}
+
+.drugi {
+    background-color: blue;
+    border-bottom: 3px solid black;
+    text-align: center;
+}
+.treci {
+    background-color:blueviolet;
+    border-bottom: 3px solid black;
+    text-align: right;
+}.cetvrti{
+    background-color:yellow;
+    border-bottom: 3px solid black;
+    text-align: left;
+}
+
+.peti {
+    background-color:green;
+    border-bottom: 3px solid black;
+    text-align: center;
+}
+
+
+
+button {
+    background-color: aqua;
+    
+}
