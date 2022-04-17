@@ -59,7 +59,7 @@ dugme.eq (4).on ('click', function () {
 dugme.eq (5).on ('click', function () {
 
 
-    alert( $('.treci').html("<h1>Vazno<h1> <p>Ovo je set html,ostali prosli html je zamijenjen sa ovim</p>"));
+    $('.treci').html("<h1>Vazno<h1> <p>Ovo je set html,ostali prosli html je zamijenjen sa ovim</p>");
 
 
 
